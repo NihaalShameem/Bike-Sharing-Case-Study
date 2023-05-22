@@ -4,5 +4,5 @@
 #### Why would casual members buy Cyclistic annual memberships?
 #### How can Cyclystic use digital media to influence casual riders to become members?
 
-## Link to Visualizations! [Visuals!]([Rplots.zip](https://github.com/NihaalShameem/Bike-Sharing-Case-Study/files/11537783/Rplots.zip)
+## Link to Visualizations! [Visuals!](([Rplots.zip](https://github.com/NihaalShameem/Bike-Sharing-Case-Study/files/11537783/Rplots.zip))
 
